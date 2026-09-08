@@ -1016,8 +1016,8 @@ export default {
           const 语言值661 = 是否值664 ? 'fa-IR' : 'zh-CN';
           const 本地值660 = {
             zh: {
-              title: '终端 v3.0',
-              terminal: '终端 v3.0',
+              title: '终端 v3.1',
+              terminal: '终端 v3.1',
               congratulations: '恭喜你来到这',
               enterU: '请输入你U变量的值',
               enterD: '请输入你D变量的值',
@@ -1033,8 +1033,8 @@ export default {
               reenter: '请重新输入有效的UUID'
             },
             fa: {
-              title: 'ترمینال v3.0',
-              terminal: 'ترمینال v3.0',
+              title: 'ترمینال v3.1',
+              terminal: 'ترمینال v3.1',
               congratulations: 'تبریک می‌گوییم به شما',
               enterU: 'لطفا مقدار متغیر U خود را وارد کنید',
               enterD: 'لطفا مقدار متغیر D خود را وارد کنید',
